@@ -27,6 +27,8 @@ const largeNum = BigInt(some big number);
 const superLarge = largeNumber ** 23n
 ```
 
+#### CSS
+
 # HTML
 
 #### Lazy loading
