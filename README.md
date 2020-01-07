@@ -27,7 +27,11 @@ const largeNum = BigInt(some big number);
 const superLarge = largeNumber ** 23n
 ```
 
-#### CSS
+# CSS
+
+### Ticks
+
+#### Fake Scrollspy: [Code](https://gist.run?id=d1a286b919e764342bda7dc391ea4a42)
 
 # HTML
 
