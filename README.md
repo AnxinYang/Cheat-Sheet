@@ -1,6 +1,8 @@
 # Javascript
 
-#### Dynamic Import, 2020
+### New Features in 2020
+
+#### Dynamic Import
 ```javascript
 async function loadLib(){
   const lib = await import('some lib');
