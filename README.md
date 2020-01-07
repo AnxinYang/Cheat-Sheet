@@ -31,5 +31,5 @@ const superLarge = largeNumber ** 23n
 
 #### Lazy loading
 ```html
-<img loading="lazy">
+<img loading="lazy" />
 ```
