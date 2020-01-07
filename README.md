@@ -1,6 +1,3 @@
-# Cheat-Sheet
-Useful ticks and new feature
-
 # Javascript
 
 #### Dynamic Import, 2020
